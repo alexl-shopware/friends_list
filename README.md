@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the basic config that rails creates whenever a new project is created with `rails new project_name`. 
+This application will be a friends list so one can understand the basics of a ruby on rails project. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This project is following the youtube course by Free Code Camp: [video](https://www.youtube.com/watch?v=fmyvWz5TUWg)
